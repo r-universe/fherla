@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "sarp.snowprofile.alignment"]
+	path = sarp.snowprofile.alignment
+	url = https://github.com/cran/sarp.snowprofile.alignment
+[submodule "sarp.snowprofile.pyface"]
+	path = sarp.snowprofile.pyface
+	url = https://github.com/cran/sarp.snowprofile.pyface
